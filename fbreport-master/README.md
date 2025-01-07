@@ -41,3 +41,10 @@ $  python2 Report.py
 <a href="https://discord.gg/aMghPvTe" target="_blank">
     <img title="Discord" src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white">
 </a>
+<a href="https://guccibazar.fun/" target="_blank">
+    <img title="Website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+<a href="https://url.giftcard71.com/" target="_blank">
+    <img title="Website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
